@@ -1,6 +1,7 @@
 # Change log
 
 ### vNEXT
+- Update to @types/graphql@0.13
 
 ### 1.0.9
 - Correct return type to FetchResult [#600](https://github.com/apollographql/apollo-link/pull/600)
